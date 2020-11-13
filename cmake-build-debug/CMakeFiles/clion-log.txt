@@ -1,0 +1,4 @@
+"D:\c++\clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\work\c++\openGL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/work/c++/openGL/cmake-build-debug
